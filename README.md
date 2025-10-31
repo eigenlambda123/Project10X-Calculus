@@ -33,25 +33,6 @@ This is part of my broader learning method called **Project10X**, and follows th
 
 ---
 
-## How To Use This Repository
-
-Each project lives in its own folder and includes:
-
-- A local README explaining the concept, implementation, and results  
-- Python code for visualization and computation  
-- Simulations and outputs to help reinforce the math  
-
-To get started with a project:
-
-```bash
-git clone https://github.com/eigenlambda123/Project10X-Calculus.git
-cd Project10X-Calculus/Project1-LimitsAndContinuity
-````
-
-Each README includes step-by-step breakdowns of what I’m doing and why, so others can learn alongside me.
-
----
-
 ## Tools Used
 
 - **Python 3.11+** – For writing simulations and logic
@@ -97,5 +78,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://mit-li
 
 ---
 
-_Made by RM Villa_
+_Created and Maintained by RM Villa_
 
