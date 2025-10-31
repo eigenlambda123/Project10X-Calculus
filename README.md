@@ -10,11 +10,10 @@ This repository documents my personal journey to master Calculus through buildin
 
 These projects are designed with an ML context in mind, where calculus concepts show up in things like optimization, backpropagation, and function approximation.
 
-This is part of my broader learning method called **Project10X**, and follows the same philosophy I used in my [Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git), [Project10X-LinearAlgebra](https://github.com/eigenlambda123/Project10X-Linear-Algebra.git), and [Project10X-The-Backend-Builder-Series](https://github.com/eigenlambda123/Project10X-The-Backend-Builder-Series.git) repositories.
+This is part of my broader learning method called **Project10X**, and follows the same philosophy I used in my [Project10X-Stats](https://github.com/eigenlambda123/Project10X-Stats.git) and [Project10X-LinearAlgebra](https://github.com/eigenlambda123/Project10X-Linear-Algebra.git) repositories.
 
 ---
 
-## Project Overview
 
 ## Project Overview
 
